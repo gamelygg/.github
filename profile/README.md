@@ -1,41 +1,57 @@
 # Gamely
 
-Gamely is a developer platform providing unified access to gaming achievement and trophy data across ecosystems.
+Gamely is a modern gaming platform focused on game data, achievement tracking, and developer tooling.
 
-We build tools and infrastructure that help developers integrate, track, and power next-generation achievement systems across games and platforms.
-
----
-
-## 🌍 Platform Overview
-
-| Domain | Purpose |
-|-------|---------|
-| **gamely.gg** | Product and platform home |
-| **gamely.dev** | Developer platform, documentation, and tools |
-| **api.gamely.gg** | Production Gamely API |
-| **id.gamely.gg** | Authentication and identity services |
+We build infrastructure and services that power next-generation gaming experiences — from game discovery and social features to platform-integrated achievement systems.
 
 ---
 
-## 🚀 Core Repositories
+## 🚀 What We Build
 
-- **gamely-api** — Core REST API powering the Gamely platform  
-- **gamely-id** — Authentication and identity service for Gamely applications and developers  
-- **gamely-web** — Official website and product experience for Gamely  
-- **gamely-dev** — Developer platform including API reference, SDK guides, and integration tools  
+### 🎮 Gaming Platform
+- Game discovery and discussion
+- Game pages powered by structured game data
+- User collections, ratings, and social features
+
+### 🏆 Achievement & Trophy Infrastructure
+- PlayStation trophy integration
+- Achievement tracking systems
+- Public-facing gaming data APIs
+
+### 🧰 Developer SDKs
+Production-ready .NET SDKs for gaming platform integrations:
+
+- **Gamely.Sdk.Igdb** – IGDB API client with Twitch OAuth and APICALYPSE support  
+- **Gamely.Sdk.Psn** – PlayStation Network integration for trophy and profile data  
 
 ---
 
-## 🧩 What We're Building
+## 🏗 Architecture Philosophy
 
-Gamely provides infrastructure for:
+We prioritize:
 
-- Cross-platform achievement and trophy data  
-- Developer APIs and SDKs  
-- Authentication and identity services  
-- Tooling for game studios to implement achievement systems powered by Gamely  
+- Strongly-typed SDKs
+- Clean dependency injection integration
+- Scalable backend architecture
+- Platform-first design
+- Long-term ecosystem thinking
+
+Gamely is designed as infrastructure — not just a website.
 
 ---
 
-🌐 **Website:** https://gamely.gg  
-🧑‍💻 **Developer Platform:** https://gamely.dev
+## 📦 Core Areas
+
+- Backend APIs
+- Public gaming data services
+- Platform integrations (PlayStation, Xbox, Steam)
+- SDKs and developer tooling
+- Web applications and documentation
+
+---
+
+## 🌐 Vision
+
+Gamely aims to unify gaming identity, achievement tracking, and structured game data into a cohesive platform that developers and players can build on.
+
+More coming soon.
